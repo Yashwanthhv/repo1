@@ -1,5 +1,5 @@
 #!\bin\bash
-echo "enter the values of a and b"
+echo "Enter the values of a and b"
 read a b
 
 sum=`expr $a + $b`
